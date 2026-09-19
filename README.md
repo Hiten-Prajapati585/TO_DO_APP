@@ -7,7 +7,7 @@ This To-Do List application is a lightweight, responsive web project that allows
 **Responsive Layout:** The application is fully mobile-responsive, utilizing media queries to stack form elements, adjust padding, and resize fonts for screens under 600px wide.
 
 # Technical Implementation 
-**HTML Structure (index.html):** The markup utilizes a centralized container holding a form for input and a hidden-by default <table> equipped with a <thead> for column organization (SR.NO, TO DO LIST, Actions).
+**HTML Structure (index.html):** The markup utilizes a centralized container holding a form for input and a hidden-by default equipped with a <thead> for column organization (SR.NO, TO DO LIST, Actions).
 
 **Styling (style.css):** The visual design features a modern aesthetic with a linear-gradient background, subtle box shadows, and distinct color-coded buttons (blue for submit, yellow for edit, red for delete) that   include hover transition effects. 
 
